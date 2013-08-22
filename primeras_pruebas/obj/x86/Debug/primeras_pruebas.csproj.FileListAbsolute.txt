@@ -1,0 +1,5 @@
+C:\Users\Alumno\tateti-seminario\primeras_pruebas\bin\Debug\primeras_pruebas.exe
+C:\Users\Alumno\tateti-seminario\primeras_pruebas\bin\Debug\primeras_pruebas.pdb
+C:\Users\Alumno\tateti-seminario\primeras_pruebas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\tateti-seminario\primeras_pruebas\obj\x86\Debug\primeras_pruebas.exe
+C:\Users\Alumno\tateti-seminario\primeras_pruebas\obj\x86\Debug\primeras_pruebas.pdb

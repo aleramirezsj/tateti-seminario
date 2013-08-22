@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeras_pruebas", "primeras_pruebas\primeras_pruebas.csproj", "{DB5696E7-6DA6-429C-B11A-D75380E503E4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tateti", "TATETI\tateti.csproj", "{4AB23507-9C75-4CC4-AB48-DFBBE42E91A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebas_visuales", "Pruebas_visuales\Pruebas_visuales.csproj", "{54463830-C837-45E7-B37C-67DE873CD5A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +13,21 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4AB23507-9C75-4CC4-AB48-DFBBE42E91A5}.Debug|x86.ActiveCfg = Debug|x86
-		{4AB23507-9C75-4CC4-AB48-DFBBE42E91A5}.Debug|x86.Build.0 = Debug|x86
-		{4AB23507-9C75-4CC4-AB48-DFBBE42E91A5}.Release|x86.ActiveCfg = Release|x86
-		{4AB23507-9C75-4CC4-AB48-DFBBE42E91A5}.Release|x86.Build.0 = Release|x86
 		{DB5696E7-6DA6-429C-B11A-D75380E503E4}.Debug|x86.ActiveCfg = Debug|x86
 		{DB5696E7-6DA6-429C-B11A-D75380E503E4}.Debug|x86.Build.0 = Debug|x86
 		{DB5696E7-6DA6-429C-B11A-D75380E503E4}.Release|x86.ActiveCfg = Release|x86
 		{DB5696E7-6DA6-429C-B11A-D75380E503E4}.Release|x86.Build.0 = Release|x86
+		{4AB23507-9C75-4CC4-AB48-DFBBE42E91A5}.Debug|x86.ActiveCfg = Debug|x86
+		{4AB23507-9C75-4CC4-AB48-DFBBE42E91A5}.Debug|x86.Build.0 = Debug|x86
+		{4AB23507-9C75-4CC4-AB48-DFBBE42E91A5}.Release|x86.ActiveCfg = Release|x86
+		{4AB23507-9C75-4CC4-AB48-DFBBE42E91A5}.Release|x86.Build.0 = Release|x86
+		{54463830-C837-45E7-B37C-67DE873CD5A6}.Debug|x86.ActiveCfg = Debug|x86
+		{54463830-C837-45E7-B37C-67DE873CD5A6}.Debug|x86.Build.0 = Debug|x86
+		{54463830-C837-45E7-B37C-67DE873CD5A6}.Release|x86.ActiveCfg = Release|x86
+		{54463830-C837-45E7-B37C-67DE873CD5A6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = TATETI\tateti.csproj

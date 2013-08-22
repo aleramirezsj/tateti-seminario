@@ -1,0 +1,5 @@
+C:\Users\Alumno\tateti-seminario\TATETI\bin\Debug\TATETI.exe
+C:\Users\Alumno\tateti-seminario\TATETI\bin\Debug\TATETI.pdb
+C:\Users\Alumno\tateti-seminario\TATETI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\tateti-seminario\TATETI\obj\x86\Debug\TATETI.exe
+C:\Users\Alumno\tateti-seminario\TATETI\obj\x86\Debug\TATETI.pdb

@@ -1,0 +1,29 @@
+C:\Users\Alumno\AppData\Local\Temporary Projects\Pruebas_visuales\bin\Debug\Pruebas_visuales.exe
+C:\Users\Alumno\AppData\Local\Temporary Projects\Pruebas_visuales\bin\Debug\Pruebas_visuales.pdb
+C:\Users\Alumno\AppData\Local\Temporary Projects\Pruebas_visuales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\AppData\Local\Temporary Projects\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.frmpruebas_visuales.resources
+C:\Users\Alumno\AppData\Local\Temporary Projects\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.Properties.Resources.resources
+C:\Users\Alumno\AppData\Local\Temporary Projects\Pruebas_visuales\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alumno\AppData\Local\Temporary Projects\Pruebas_visuales\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alumno\AppData\Local\Temporary Projects\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.exe
+C:\Users\Alumno\AppData\Local\Temporary Projects\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.pdb
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.exe
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.pdb
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\bin\Debug\Pruebas_visuales.exe
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\bin\Debug\Pruebas_visuales.pdb
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.frmpruebas_visuales.resources
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.Properties.Resources.resources
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alumno\Seminario_Pruebas_Visuales\Pruebas_visuales\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.FrmFormato_Texto.resources
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.exe
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.pdb
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\bin\Debug\Pruebas_visuales.exe
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\bin\Debug\Pruebas_visuales.pdb
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.frmpruebas_visuales.resources
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.FrmFormato_Texto.resources
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.Properties.Resources.resources
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\GenerateResource.write.1.tlog
