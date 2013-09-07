@@ -1,0 +1,9 @@
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\agenda\bin\Debug\agenda.exe
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\agenda\bin\Debug\agenda.pdb
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\agenda\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\agenda\obj\x86\Debug\agenda.nuevo_contacto.resources
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\agenda\obj\x86\Debug\agenda.Properties.Resources.resources
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\agenda\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\agenda\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\agenda\obj\x86\Debug\agenda.exe
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\agenda\obj\x86\Debug\agenda.pdb

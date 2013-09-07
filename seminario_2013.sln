@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tateti", "TATETI\tateti.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebas_visuales", "Pruebas_visuales\Pruebas_visuales.csproj", "{54463830-C837-45E7-B37C-67DE873CD5A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda", "agenda\agenda.csproj", "{3ED29BEC-C146-4EE3-96F8-8B499AAB3D84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +27,10 @@ Global
 		{54463830-C837-45E7-B37C-67DE873CD5A6}.Debug|x86.Build.0 = Debug|x86
 		{54463830-C837-45E7-B37C-67DE873CD5A6}.Release|x86.ActiveCfg = Release|x86
 		{54463830-C837-45E7-B37C-67DE873CD5A6}.Release|x86.Build.0 = Release|x86
+		{3ED29BEC-C146-4EE3-96F8-8B499AAB3D84}.Debug|x86.ActiveCfg = Debug|x86
+		{3ED29BEC-C146-4EE3-96F8-8B499AAB3D84}.Debug|x86.Build.0 = Debug|x86
+		{3ED29BEC-C146-4EE3-96F8-8B499AAB3D84}.Release|x86.ActiveCfg = Release|x86
+		{3ED29BEC-C146-4EE3-96F8-8B499AAB3D84}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -27,3 +27,5 @@ C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales
 C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.Properties.Resources.resources
 C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Alumno\tateti-seminario\Pruebas_visuales\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.exe
+E:\Archivos Personales\LABURO\ISP20\SEMINARIO_2013\Seminario_2013\Pruebas_visuales\obj\x86\Debug\Pruebas_visuales.pdb
