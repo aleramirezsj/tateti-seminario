@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.gbx_vista_previa = new System.Windows.Forms.GroupBox();
-            this.chk_negrita = new System.Windows.Forms.CheckBox();
             this.lbl_vista_previa = new System.Windows.Forms.Label();
+            this.chk_negrita = new System.Windows.Forms.CheckBox();
             this.chk_cursiva = new System.Windows.Forms.CheckBox();
             this.Subrayado = new System.Windows.Forms.CheckBox();
             this.cbx_tamanio = new System.Windows.Forms.ComboBox();
@@ -38,6 +38,8 @@
             this.btn_examinar = new System.Windows.Forms.Button();
             this.txt_archivo_imagen = new System.Windows.Forms.TextBox();
             this.pic_imagen = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.cbxfuente = new System.Windows.Forms.ComboBox();
             this.gbx_vista_previa.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pic_imagen)).BeginInit();
             this.SuspendLayout();
@@ -52,6 +54,16 @@
             this.gbx_vista_previa.TabStop = false;
             this.gbx_vista_previa.Text = "Vista previa";
             // 
+            // lbl_vista_previa
+            // 
+            this.lbl_vista_previa.AutoSize = true;
+            this.lbl_vista_previa.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_vista_previa.Location = new System.Drawing.Point(15, 26);
+            this.lbl_vista_previa.Name = "lbl_vista_previa";
+            this.lbl_vista_previa.Size = new System.Drawing.Size(71, 13);
+            this.lbl_vista_previa.TabIndex = 0;
+            this.lbl_vista_previa.Text = "Instituto N°20";
+            // 
             // chk_negrita
             // 
             this.chk_negrita.AutoSize = true;
@@ -62,16 +74,6 @@
             this.chk_negrita.Text = "&Negrita";
             this.chk_negrita.UseVisualStyleBackColor = true;
             this.chk_negrita.CheckedChanged += new System.EventHandler(this.chk_negrita_CheckedChanged);
-            // 
-            // lbl_vista_previa
-            // 
-            this.lbl_vista_previa.AutoSize = true;
-            this.lbl_vista_previa.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_vista_previa.Location = new System.Drawing.Point(15, 26);
-            this.lbl_vista_previa.Name = "lbl_vista_previa";
-            this.lbl_vista_previa.Size = new System.Drawing.Size(71, 13);
-            this.lbl_vista_previa.TabIndex = 0;
-            this.lbl_vista_previa.Text = "Instituto N°20";
             // 
             // chk_cursiva
             // 
@@ -143,12 +145,38 @@
             this.pic_imagen.TabIndex = 8;
             this.pic_imagen.TabStop = false;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(252, 64);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(40, 13);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "Fuente";
+            // 
+            // cbxfuente
+            // 
+            this.cbxfuente.FormattingEnabled = true;
+            this.cbxfuente.Items.AddRange(new object[] {
+            "Arial",
+            "Arial Black",
+            "Times New Roman",
+            "Comic Sans MS",
+            "Mistral"});
+            this.cbxfuente.Location = new System.Drawing.Point(314, 64);
+            this.cbxfuente.Name = "cbxfuente";
+            this.cbxfuente.Size = new System.Drawing.Size(145, 21);
+            this.cbxfuente.TabIndex = 9;
+            this.cbxfuente.SelectedIndexChanged += new System.EventHandler(this.cbxfuente_SelectedIndexChanged);
+            // 
             // FrmFormato_Texto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(497, 374);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.cbxfuente);
             this.Controls.Add(this.pic_imagen);
             this.Controls.Add(this.txt_archivo_imagen);
             this.Controls.Add(this.btn_examinar);
@@ -180,5 +208,7 @@
         private System.Windows.Forms.Button btn_examinar;
         private System.Windows.Forms.TextBox txt_archivo_imagen;
         private System.Windows.Forms.PictureBox pic_imagen;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox cbxfuente;
     }
 }

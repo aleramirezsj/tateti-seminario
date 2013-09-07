@@ -40,13 +40,18 @@ namespace Pruebas_visuales
         private void btn_examinar_Click(object sender, EventArgs e)
         {
             OpenFileDialog archivo = new OpenFileDialog();
-            archivo.ShowDialog();
-            txt_archivo_imagen.Text = archivo.FileName;
-            pic_imagen.ImageLocation = archivo.FileName;
+            if (archivo.ShowDialog() == DialogResult.OK)
+            {
+                txt_archivo_imagen.Text = archivo.FileName;
+                pic_imagen.ImageLocation = archivo.FileName;
+                this.BackgroundImage = Image.FromFile(archivo.FileName);
+            }
 
-            this.BackgroundImage = Image.FromFile(archivo.FileName);
+        }
 
-
+        private void cbxfuente_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            lbl_vista_previa.Font = new Font(cbxfuente.Text, lbl_vista_previa.Font.Size);
         }
     }
 }
